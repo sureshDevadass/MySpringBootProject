@@ -19,5 +19,6 @@ public class ResultDao {
 		 List<Result> resultsDao = rr.getResultsDao();
 		 
 		  return resultsDao;
+		  System.out.println("Changes from GIT HUB");
 	}
 }
